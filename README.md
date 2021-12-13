@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi. I'm Evan
+## About me
+I'm a content creator on YouTube. Not a pro programmer
 
-<!--
-**theevanyeoh/theevanyeoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials
+Twitter and Instagram @theevanyeoh
 
-Here are some ideas to get you started:
+## Languages that I know
+HTML and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Device I uses
+iPhone 13 Pro Max 256GB Sierra Blue
+MacBook Pro 16" Intel (Last one with maxed spec ever exist)
+XiaoMi Mi Band 5
